@@ -1,0 +1,2 @@
+Model,Architecture,Transformer Layers,Attention Heads,Embedding Dim,Total Parameters,Training Corpus,Usage
+facebook/esm2_t6_8M_UR50D,ESM-2 (Evolutionary Scale Modeling),6,20,320,"7,840,121","UR50/D (UniRef50 + UniRef50/D), 65M protein sequences",Zero-shot feature extraction (no fine-tuning)

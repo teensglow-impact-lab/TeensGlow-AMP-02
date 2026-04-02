@@ -1,0 +1,12 @@
+Statistical Validation Report — TeensGlow-AMP-02
+==================================================
+Test: Two-sample t-test (Welch's, two-tailed)
+H0:  Top-10 GlowScores = Random genomic fragment scores
+
+t-statistic : 21.527809
+p-value     : 1.07e-32
+Significant : Yes — H0 rejected (p < 0.05)
+
+Interpretation: The AI scoring pipeline preferentially
+selects biologically relevant bacteriocin candidates
+beyond chance-level selection from genomic ORF space.

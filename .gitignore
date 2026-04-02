@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Large data files (Upload to Zenodo, not GitHub)
+data/raw/*.gz
+data/raw/*.fna
+data/raw/*.gbk
+
+# Results figures (too large for git)
+results/figures/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

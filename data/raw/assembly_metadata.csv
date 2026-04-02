@@ -1,0 +1,5 @@
+ID,Organism,Name,FTP,LocalPath
+496851,Lactiplantibacillus plantarum (firmicutes),ASM130264v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/302/645/GCA_001302645.1_ASM130264v1,data/raw\GCA_001302645.1_ASM130264v1_genomic.fna.gz
+83699348,Staphylococcus epidermidis (firmicutes),ASM5609787v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/056/097/875/GCA_056097875.1_ASM5609787v1,data/raw\GCA_056097875.1_ASM5609787v1_genomic.fna.gz
+83697148,Staphylococcus epidermidis (firmicutes),ASM5609590v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/056/095/905/GCA_056095905.1_ASM5609590v1,data/raw\GCA_056095905.1_ASM5609590v1_genomic.fna.gz
+77258228,Cutibacterium acnes (high G+C Gram-positive bacteria),ASM5239882v1,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/052/398/825/GCA_052398825.1_ASM5239882v1,data/raw\GCA_052398825.1_ASM5239882v1_genomic.fna.gz
